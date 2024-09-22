@@ -11,13 +11,16 @@ Pastikan anda sudah menginstall, saya mencantumkan versi yang saya gunakan
 * Clone Repo
   git clone https://github.com/username/repo-name.git
 * masuk ke direktori
-  ``` cd seleksi
+  ``` 
+  cd seleksi
 * install dependensi yang dibutuhkan 
-  ``` npm install
+  ``` 
+  npm install
 * siapkan database dan lakukan konfigurasi pada 
 ##### env
 * jalakan applikasi
-  ``` npm start
+  ``` 
+  npm start
   jika sudah server seharusnya berjalan pada ```http://localhost:3000
 
 ## Endpoint Orders
