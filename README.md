@@ -1,6 +1,3 @@
-## Seleksi
-Projek ini ditujukan untuk seleksi tes kerja.
-
 ## Requirement
 Pastikan anda sudah menginstall, saya mencantumkan versi yang saya gunakan
 - [Node.js](https://nodejs.org/) (versi v18.0.0)
